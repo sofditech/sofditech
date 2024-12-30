@@ -3,7 +3,7 @@
 We are a software development company with over 10 years of experience in providing innovative digital solutions. Our mission is to help businesses grow and thrive by offering tailored software solutions, CRM implementations, and cutting-edge technologies.
 
 🌐 **Website**: [sofditech.com](https://www.sofditech.com)  
-📧 **Contact**: [contact@sofditech.com](mailto:contact@sofditech.com)
+📧 **Contact**: [contactenos@sofditech.com](mailto:contactenos@sofditech.com)
 
 🔧 **What we do**:
 - **Custom software development**

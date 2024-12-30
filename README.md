@@ -18,10 +18,10 @@ We’re a passionate team of developers, designers, and tech enthusiasts who str
 
 💡 **Technologies we use**:
 - **Frontend**: React, Angular, Vue.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, PHP, Python, Ruby on Rails
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
-- **Other tools**: Docker, Kubernetes, CI/CD, Git
+- **Backend**: Node.js, PHP
+- **Databases**: MySQL, PostgreSQL, Oracle
+- **Cloud**: AWS
+- **Other tools**: Docker, Git
 
 🔗 **Connect with us**:  
 - [LinkedIn](https://www.linkedin.com/company/sofditech)
@@ -31,4 +31,6 @@ We’re a passionate team of developers, designers, and tech enthusiasts who str
 
 ---
 
-![Sofditech logo](https://path-to-your-image/logo.png)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
